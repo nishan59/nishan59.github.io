@@ -15,7 +15,10 @@ p{
     font-size: 100px;
     text-align: center;
     height: auto;
-    width: 100%;    
+    width: 100%;
+    position: absolute;
+    left: 0px;
+    bottom: 5%;    
 }
 
 button:hover{
