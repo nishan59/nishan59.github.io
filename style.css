@@ -1,26 +1,17 @@
-body{
-    background-position: center;
-    background-size: 100%;
-    color: rgba(252, 6, 6, 0.89);
-}
+
 p{
     font-family: "Forte", sans-serif;
     font-size: 250px;
+    text-align: center;
     color: aquamarine
 
 }
 
 .block{
-    font-family: "Forte", sans-serif;
-    font-size: 100px;
-    text-align: center;
-    height: auto;
+    height: 100%;
     width: 100%;
+    background-color: transparent;
     position: absolute;
-    left: 0px;
-    bottom: 5%;    
-}
-
-button:hover{
-    background-color: aquamarine;
+    top: 0px;
+    left: 0px;   
 }
